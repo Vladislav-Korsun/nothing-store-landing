@@ -1,4 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Nothing Store Landing
+
+## Live Demo
+https://Vladislav-Korsun.github.io/nothing-store-landing/
+
+## Technologies
+- HTML5
+- SCSS
+- JavaScript
+
+## Description
+Modern responsive landing page for a tech e-commerce store inspired by Nothing brand. Features product listings, categories, navigation menu, and contact form.
+
+## Features
+- Responsive design
+- Product cards
+- Categories section
+- Navigation menu
+- Contact form
